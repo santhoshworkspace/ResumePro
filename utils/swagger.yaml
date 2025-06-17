@@ -4,7 +4,7 @@ info:
   description: API for resume analysis, mock interviews, and job suggestions
   version: 1.0.0
 servers:
-  - url: https://airesumeproapi.onrender.com/api
+  - url: https://resumepro-5wxq.onrender.com//api
     description: Production server
   - url: http://localhost:5000/api
     description: Local development server

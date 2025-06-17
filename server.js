@@ -19,7 +19,7 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 app.use(cors({
-  origin: ["https://airesumepro-beta.vercel.app/"], // Replace with your actual domain
+  origin: ["https://resume-ai-livid.vercel.app"], // Replace with your actual domain
   credentials: true,
 }));
 
